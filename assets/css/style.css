@@ -1,0 +1,9 @@
+body {
+  background-color: white;
+}
+
+.header {
+  text-align: center;
+  background-color: #3462bb;
+  background: linear-gradient(to right, #3462bb, #20084b);
+}
